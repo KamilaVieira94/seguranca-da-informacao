@@ -3,6 +3,7 @@
 Olá! Aqui estão algumas anotações de conceitos do que estudei para além dos conteúdos do programa Desenvolve, conforme preferências. Apontamentos que anteriormente estavam em cadernos e agora fazem parte desse projeto.
 
 #ISO - INTERNATIONAL ORGANIZATION STANDARDIZATION 
+
 Possui a ISO 27000 que se refere a área da tecnologia. 
 ISO 27000 estabelece normas e práticas para a implementação de um Sistema de Gestão de SI.
 "INFORMAÇÃO É PODER", ou seja, quanto mais informação, maior o poder e também o risco.
