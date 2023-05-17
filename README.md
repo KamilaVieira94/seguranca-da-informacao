@@ -51,18 +51,21 @@ Olá! Aqui estão algumas anotações de conceitos do que estudei para além dos
 #Por que a ISO 27001 é importante?
 
 {
-    Ela ajuda as instituições a terem noção dos riscos e abordar de maneira efetiva os pontos fracos. Possui uma abordagem holística para a 
-    segurança da informação através da verificação de pessoas, política e tecnologia da empresa.
+    Ela ajuda as instituições a terem noção dos riscos e abordar de maneira efetiva os pontos fracos.
+    
+    Possui uma abordagem holística para segurança da informação através da verificação de pessoas, política e tecnologia da empresa.
 } 
 {
-    Traz também os requisitos necessários para a implantação de um SGSI (Sistema de Gestão de SI), dentre eles estão: entender o contexto da organização,
-    avaliação de riscos, controles operacionais, análise de eficácia e melhorias.
+    Traz também os requisitos necessários para a implantação de um SGSI (Sistema de Gestão de SI), 
+    dentre eles estão: entender o contexto da organização, avaliação de riscos, controles operacionais, análise de eficácia e melhorias.
 }
 
 #ISO 27002  
 
 {
-    É o código de boas práticas que apresenta um conjunto dos controles necessários para a implementação de um SGSI. É utilizada em conjunto com a ISO 27001
+    É o código de boas práticas que apresenta um conjunto dos controles necessários para a implementação de um SGSI. 
+    
+    É utilizada em conjunto com a ISO 27001. 
 }
 
 
