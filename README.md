@@ -77,10 +77,73 @@ Olá! Aqui estão algumas anotações de conceitos do que estudei para além dos
     abordando sistematicamente a gestão de riscos, alinhada aos conceitos da ISO 27001 e os controles da ISO 27002.
 } 
 
+#COBIT 
+
+{
+       Control Objectives for Information and Related Technology ou COBIT é um conjunto de boas práticas e recomendações
+       de governança de TI que auxilia na qualidade e segurança das operações.
+       
+       O domínio dessas boas práticas é medido pela certificação, que é (re)conhecida no mundo todo.
+       
+       COBIT é um modelo de gestão de governança em TI que funciona através de um método (framework) que se baseia em 
+       4 fundamentos e 5 princípios 
+       
+       Para entender sobre COBIT é importante compreender o que é governança em TI e assimilar que é uma área responsável por:
+
+               * administrar informações;
+
+               * controlar os serviços de TI;
+
+               * garantir que a tecnologia seja uma aliada;
+
+               * garantir segurança das informações;
+
+               * administrar os dados;
+
+               * gerenciar problemas;
+
+               * fazer a gestão de TI; 
+       
+       Os princípios do COBIT são:
+       
+                *Planejar e organizar;
+                
+                *Adquirir e implementar;
+                
+                *Entregar e suportar;
+                
+                *Monitorar e avaliar;
+                
+        E os princípios são:
+        
+                *Satisfazer as partes interessadas;
+                
+                *Cobrir a organização de ponta a ponta;
+                
+                *Aplicar um framework integrado e único;
+                
+                *Possibilitar uma visão holística;
+                
+                *Separar governança e gerenciamento.
+       
+       
+       ITL é um exemplo de framework que pode ser utilizado em parceria com o COBIT 
+       
+       * O objetivo desse framework é otimizar a forma como a TI oferece suporte ao negócio principal da empresa.
+       
+       * Enquanto a ITIL oferece orientações de boas práticas para gestão e execução de serviços de TI em busca da geração de valor para o negócio
+       o COBIT orienta a implementação de planos de ação que otimizam os processos e etapas relacionadas à governança de TI de uma empresa. 
+
 
 Referências: 
-https://posdigital.pucpr.br/blog/iso-27000
-https://www.iso.org/standard/27001
-linkedin.com/pulse/nova-iso-27005-para-gestão-de-riscos-segurança-da-alberto-bastos/?originalSubdomain=pt
-https://www.youtube.com/watch?v=oYu_hseq6AM
-https://www.stwbrasil.com/blog/tudo-sobre-a-iso-27000/
+        https://posdigital.pucpr.br/blog/iso-27000
+
+        https://www.iso.org/standard/27001
+
+        linkedin.com/pulse/nova-iso-27005-para-gestão-de-riscos-segurança-da-alberto-bastos/?originalSubdomain=pt
+
+        https://www.youtube.com/watch?v=oYu_hseq6AM
+
+        https://www.stwbrasil.com/blog/tudo-sobre-a-iso-27000/
+        
+        https://www.zendesk.com.br/blog/cobit-o-que-e/
